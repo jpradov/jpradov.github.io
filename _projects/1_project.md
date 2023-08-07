@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: VLMs for Remote Sensing
+description: Bridging the Gap between natural and remote sensing images in large Vision-Language models
+img: assets/img/earth_obs.jpg
 importance: 1
-category: work
+category: school
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
