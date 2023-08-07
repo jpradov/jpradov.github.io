@@ -15,8 +15,6 @@
       institution: EPFL - Ecole Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
       year: 2024
       description:
-        - Placeholder
-        - Placeholder
         - title: Minor in Financial Engineering
           contents:
             - Quantitative focus on portfolio engineering, derivative products and ML for financial data.  
@@ -45,21 +43,4 @@
       year: 2021 - 2023
       description:
         - Implementation of ML pipelines (data annotation, data wrangling, model training, performance evaluation) for cell detection and cortical layer segmentation on the S1 region of juvenile (P14) rats.
-
-
-
-
-
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
