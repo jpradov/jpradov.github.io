@@ -6,7 +6,7 @@ subtitle: Data Science Master Student, Financial Engineering Minor @<a href="htt
 profile:
   align: right	
   image: JoaoPrado.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
 
     <p>Geneva, Switzerland</p>
