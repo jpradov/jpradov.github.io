@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my Master degree in Data Science @EPFL
+Started my Master degree in Data Science @EPFL, with a Minor in Financial Engineering.

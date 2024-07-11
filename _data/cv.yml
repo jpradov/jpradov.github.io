@@ -3,11 +3,10 @@
   contents:
     - name: Full Name
       value: João Luis Prado Vieira
-    - name: Date of Birth
-      value: 20th July 1994
     - name: Languages
       value: English, French, Portuguese
-
+    - name: Home
+      value: Geneva, Switzerland
 - title: Education
   type: time_table
   contents:
@@ -15,32 +14,67 @@
       institution: EPFL - Ecole Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
       year: 2024
       description:
+      description:
+        - Degree intersecting statistics, computer science, machine learning and optimization.
+        - From the mathematics side, focus on signal processing, information theory and tensor algebra
+        - From the machine learning side, focus on natural language processing and computer vision, with a focus on multimodal models
+        - From the computer science and optimization side, focus on randomized algorithms, data management and distributed applications.
         - title: Minor in Financial Engineering
           contents:
-            - Quantitative focus on portfolio engineering, derivative products and ML for financial data.  
-            - Theory focus on financial intermediation and risk management.
+            - Quantitative focus on portfolio engineering, and derivative price modeling. 
+            - Practical focus on derivative modelling, including complex path-dependent and fixed-income derivative products through Monte Carlo and deep learning methods.  
     - title: BSc in Materials Science
       institution: EPFL - Ecole Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
       year: 2022
       description:
         - Breadth-first engineering degree with a strong foundation in chemistry, physics and mathematics. 
-        - Curriculum encompasses main production pathways of hard commodities and state-of-the-art functional materials (semiconductors, piezoelectrics, thermoelectrics and high-performance capacitors)  
+        - Curriculum encompasses main production pathways of hard commodities and state-of-the-art functional materials (semiconductors, piezoelectrics, thermoelectrics and high-performance capacitors).
         - Bachelor thesis in the optical characterization and production of polymer optical fibers through thermal drawing.
 - title: Experience
   type: time_table
   contents:
+    - title: Data Science Engineering Intern
+      institution: Logitech, Switzerland
+      year: Feb. 2024 - Aug. 2024
+      description:
+        - Deployment of computer vision models for image enhancement and detection in embedded systems and edgeAI platforms.
+        - Benchmarking hardware solutions and model compression pipelines for efficient memory- and compute- constrained inference.
+    - title: Data Scientist intern
+      institution: Laboratory of Neurogenetics (Rodriguez Group), UniGE, Switzerland
+      year: Sep. 2023 - Ongoing
+      description:
+        - Research work on clustering and prediction of ligand/OR interaction.
     - title: Senior Student Assistant
       institution: Service Desk, Ecole Polytechnique Fédérale de Lausanne, Switzerland
-      year: 2021 - Ongoing
+      year: Mar. 2021 - Feb. 2024
       description:
-        - 1st level IT support for administrative, financial and educational applications, systems and processes.
+        - IT support for administrative, financial and educational applications, systems and processes.
 
-        - title: Senior assistant
+        - title: Senior responsabilities include
           contents:
             - Onboarding and training of new hires. Formulation of timesheets and hourly plannings for a team of 40+ colleagues.
+            - Direct discussion with business groups and service managers on workflow and support improvement.
+    - title: Student Assistant 
+      institution: EPFL
+      year: Sep. 2020 - Feb. 2023
+      description:
+        - Assistant for the following courses
+          Analysis I, bachelor course (2020)
+          * General Physics I, bachelor course (2020)
+          * Foundation of Data Science, master course (2023)
     - title: Student Assistant 
       institution: Laboratory of Neural Microcircuitry
       year: 2021 - 2023
       description:
         - Implementation of ML pipelines (data annotation, data wrangling, model training, performance evaluation) for cell detection and cortical layer segmentation on the S1 region of juvenile (P14) rats.
-
+- title: Technical skills
+  type: map
+  contents:
+    - name: Machine Learning
+      value: Proficiency on NLP and Computer Vision stacks, including Python and C++ bindings of most common frameworks. Including but not limited to Torch, C++, ONNX, Transformers, Tensorflow and OpenCV.
+    - name: Scripting
+      value: Proficiency in Bash, Python, Powershell, SQL and VBA.
+    - name: Programming
+      value: Proficiency in Python, C/C++20. Coursework done in Java/Scala.
+    - name: Cloud, Containerization and NoSQL frameworks
+      value: Docker, Kubernetes, GCP. Coursework on Kafka and Cassandra.

@@ -18,4 +18,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 👋 Olá! I am João, a Brazilian born and Swiss-based data engineer. 
-I have a wide range of interests, mostly gravitating towards applications of probability and statistics to language, finance and physics. I nurture a deep love for 'old' music, herited from a previous life as a musician.
+I have a wide range of interests, mostly gravitating towards applications of probability and statistics to language, finance and physics. I nurture a long-lasting interest for music and learning.

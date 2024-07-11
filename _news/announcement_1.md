@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received my Bachelor degree in Materials Science and Engineering @EPFL
+:tada:Received my Bachelor degree in Materials Science and Engineering @EPFL and the Materials Science and Engineering Excellence Prize. :tada:
